@@ -1,0 +1,10 @@
+Ticket Details
+Name: 1
+CNIC: 1
+Flight Number: int1
+Departure: pakistan
+Arrival: London
+Departure Time: 08:00 AM
+Arrival Time: 08:00 PM
+Seat Type: First Class
+Price: $1500
